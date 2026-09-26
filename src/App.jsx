@@ -529,8 +529,7 @@ function Home({
 
 
                 <p className="muted">
-                  {set.name} के
-                  ।
+                  {set.name} 
                 </p>
 
               </div>
