@@ -601,69 +601,57 @@ function Home({
 
       <div className="grid">
 
-        {groupedSets.map(
-          ([parentName, children]) => {
+  {groupedSets.map(
+    ([parentName, children]) => {
 
-            const totalQuestions =
-              children.reduce(
-                (
-                  total,
-                  set
-                ) =>
-                  total +
-                  set.questions.length,
-                0
-              );
+      const totalQuestions = 100;
+
+      return (
+
+        <div
+          className="card set-card"
+          key={parentName}
+        >
+
+          <div>
+
+            <span className="badge">
+              {totalQuestions} Questions
+            </span>
+
+            <h2>
+              {parentName}
+            </h2>
+
+            <p className="muted">
+              {children.length}{" "}
+              Parts available
+            </p>
+
+          </div>
+
+          <div className="actions">
+
+            <button
+              className="primary"
+              onClick={() =>
+                setSelectedParent(
+                  parentName
+                )
+              }
+            >
+              View {parentName}
+            </button>
+
+          </div>
+
+        </div>
+
+      );
+    }
+  )}
 
 
-            return (
-
-              <div
-                className="card set-card"
-                key={parentName}
-              >
-
-                <div>
-
-                  <span className="badge">
-                    {totalQuestions}{" "}
-                    Questions
-                  </span>
-
-
-                  <h2>
-                    {parentName}
-                  </h2>
-
-
-                  <p className="muted">
-                    {children.length}{" "}
-                    Parts available
-                  </p>
-
-                </div>
-
-
-                <div className="actions">
-
-                  <button
-                    className="primary"
-                    onClick={() =>
-                      setSelectedParent(
-                        parentName
-                      )
-                    }
-                  >
-                    View {parentName}
-                  </button>
-
-                </div>
-
-              </div>
-
-            );
-          }
-        )}
 
 
         {groupedSets.length === 0 && (
@@ -1412,8 +1400,7 @@ function Admin({
 
 
           <p className="muted">
-            Questions browser में
-            automatically save होते हैं।
+            
           </p>
 
         </div>
