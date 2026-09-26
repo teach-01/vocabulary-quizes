@@ -14,358 +14,358 @@ export const starterSets = [
               "Deface",
               "Decorate",
               "Spoil",
-              "Belittle"
+              "Blemish"
             ],
             answer: "Decorate",
             explanation: "Embellish means to decorate or make something more attractive."
           },
           {
             id: "q2",
-            question: "Choose the antonym of EMBELLISH.",
+            question: "Synonym of EMBELLISH is:",
             options: [
-              "Adorn",
-              "Garnish",
-              "Deface",
-              "Enhance"
+              "Enhance",
+              "Deny",
+              "Refute",
+              "Reject"
             ],
-            answer: "Deface",
-            explanation: "Deface means to spoil or damage the appearance of something."
+            answer: "Enhance",
+            explanation: "Enhance means to improve or make something more attractive or valuable."
           },
           {
             id: "q3",
-            question: "The artist used flowers to ______ the hall.",
+            question: "The chef _____ the dish with fresh herbs.",
             options: [
-              "deface",
-              "decorate",
-              "spoil",
-              "belittle"
+              "Garnished",
+              "Defaced",
+              "Denied",
+              "Repudiated"
             ],
-            answer: "decorate",
-            explanation: "Decorate means to add attractive or decorative elements."
+            answer: "Garnished",
+            explanation: "Garnished means decorated or enhanced food with additional ingredients."
           },
           {
             id: "q4",
-            question: "Choose the synonym of ENHANCE.",
+            question: "Synonym of EMBELLISH is:",
             options: [
-              "Improve",
-              "Damage",
-              "Reject",
-              "Deny"
+              "Amplify",
+              "Spoil",
+              "Blemish",
+              "Deface"
             ],
-            answer: "Improve",
-            explanation: "Enhance means to improve the quality or attractiveness of something."
+            answer: "Amplify",
+            explanation: "Amplify can mean to add to or increase something, especially by elaborating it."
           },
           {
             id: "q5",
-            question: "The chef ______ the dish with fresh herbs.",
+            question: "The hall was _____ with balloons.",
             options: [
-              "garnished",
-              "defaced",
-              "denied",
-              "rejected"
+              "Decked",
+              "Denied",
+              "Refuted",
+              "Recanted"
             ],
-            answer: "garnished",
-            explanation: "Garnish means to decorate food or drink with small items."
+            answer: "Decked",
+            explanation: "Decked means decorated or adorned."
           },
           {
             id: "q6",
-            question: "Choose the word closest in meaning to AMPLIFY.",
+            question: "Synonym of ADORN is:",
             options: [
-              "Reduce",
-              "Enlarge",
-              "Reject",
-              "Hide"
+              "Decorate",
+              "Deface",
+              "Spoil",
+              "Belittle"
             ],
-            answer: "Enlarge",
-            explanation: "Amplify means to make something larger, louder or more detailed."
+            answer: "Decorate",
+            explanation: "Adorn means to decorate or make something more attractive."
           },
           {
             id: "q7",
-            question: "The hall was ______ with balloons for the celebration.",
+            question: "The bride was _____ with jewels.",
             options: [
-              "decked",
-              "defaced",
-              "denied",
-              "repudiated"
+              "Adorned",
+              "Defaced",
+              "Denied",
+              "Refuted"
             ],
-            answer: "decked",
-            explanation: "Deck means to decorate something, especially for a celebration."
+            answer: "Adorned",
+            explanation: "Adorned means decorated or covered with attractive things."
           },
           {
             id: "q8",
-            question: "Choose the synonym of ADORN.",
+            question: "The Christmas tree was _____ with colourful lights.",
             options: [
-              "Damage",
-              "Decorate",
-              "Reject",
-              "Waste"
+              "Ornamented",
+              "Repudiated",
+              "Disowned",
+              "Refuted"
             ],
-            answer: "Decorate",
-            explanation: "Adorn means to decorate or make something more beautiful."
+            answer: "Ornamented",
+            explanation: "Ornamented means decorated with ornaments or attractive objects."
           },
           {
             id: "q9",
-            question: "The Christmas tree was ______ with colourful lights.",
+            question: "The horse was _____ in fine cloth.",
             options: [
-              "ornamented",
-              "defaced",
-              "denied",
-              "spoiled"
+              "Caparisoned",
+              "Denied",
+              "Recanted",
+              "Disclaimed"
             ],
-            answer: "ornamented",
-            explanation: "Ornament means to add decorative features."
+            answer: "Caparisoned",
+            explanation: "Caparisoned means decorated or dressed with rich or ornamental coverings."
           },
           {
             id: "q10",
-            question: "The horse was ______ in fine cloth.",
+            question: "Antonym of EMBELLISH is:",
             options: [
-              "caparisoned",
-              "denied",
-              "belittled",
-              "spoiled"
+              "Enhance",
+              "Adorn",
+              "Deface",
+              "Decorate"
             ],
-            answer: "caparisoned",
-            explanation: "Caparison means to adorn or dress, especially a horse, in decorative coverings."
+            answer: "Deface",
+            explanation: "Deface means to spoil or damage the appearance of something, opposite to embellish."
           },
           {
             id: "q11",
-            question: "Choose the antonym of ADORN.",
+            question: "Antonym of EMBELLISH is:",
             options: [
-              "Decorate",
-              "Embellish",
-              "Deface",
-              "Ornament"
+              "Blemish",
+              "Garnish",
+              "Ornament",
+              "Adorn"
             ],
-            answer: "Deface",
-            explanation: "Adorn means beautify, whereas deface means damage the appearance."
+            answer: "Blemish",
+            explanation: "Blemish means to spoil or damage the appearance of something."
           },
           {
             id: "q12",
-            question: "The vandals ______ the historical monument.",
+            question: "Antonym of EMBELLISH is:",
             options: [
-              "enhanced",
-              "adorned",
-              "defaced",
-              "ornamented"
+              "Spoil",
+              "Enhance",
+              "Decorate",
+              "Amplify"
             ],
-            answer: "defaced",
-            explanation: "Deface means to spoil the appearance of something."
+            answer: "Spoil",
+            explanation: "Spoil means to damage or ruin something, opposite to embellish."
           },
           {
             id: "q13",
-            question: "Choose the word closest in meaning to SPOIL.",
+            question: "He _____ the importance of his achievement.",
             options: [
-              "Damage",
-              "Enhance",
-              "Adorn",
-              "Decorate"
+              "Understated",
+              "Garnished",
+              "Adorned",
+              "Decked"
             ],
-            answer: "Damage",
-            explanation: "In the PDF, spoil means to ruin or damage something."
+            answer: "Understated",
+            explanation: "Understated means to present something as less important or impressive than it really is."
           },
           {
             id: "q14",
-            question: "Which word means to make something seem less important or valuable?",
+            question: "Synonym of BELITTLE is:",
             options: [
-              "Amplify",
-              "Belittle",
-              "Adorn",
-              "Garnish"
+              "Make less important",
+              "Decorate",
+              "Enhance",
+              "Amplify"
             ],
-            answer: "Belittle",
-            explanation: "Belittle means to make something seem less important or valuable."
+            answer: "Make less important",
+            explanation: "Belittle means to make someone or something seem less important."
           },
           {
             id: "q15",
-            question: "She ______ her achievements during the meeting.",
+            question: "The manager _____ his efforts in front of everyone.",
             options: [
-              "amplified",
-              "embellished",
-              "understated",
-              "adorned"
+              "Belittled",
+              "Adorned",
+              "Garnished",
+              "Ornamented"
             ],
-            answer: "understated",
-            explanation: "Understate means to present something as less important than it really is."
+            answer: "Belittled",
+            explanation: "Belittled means made someone's efforts seem less important or valuable."
           },
           {
             id: "q16",
-            question: "Choose the synonym of PRODIGAL.",
+            question: "Synonym of PRODIGAL is:",
             options: [
-              "Economical",
               "Profligate",
+              "Economical",
               "Frugal",
               "Thrifty"
             ],
             answer: "Profligate",
-            explanation: "Prodigal means spending money or resources freely or wastefully."
+            explanation: "Prodigal means wastefully extravagant; profligate has a similar meaning."
           },
           {
             id: "q17",
-            question: "Choose the antonym of PRODIGAL.",
+            question: "Synonym of PRODIGAL is:",
             options: [
               "Lavish",
-              "Extravagant",
-              "Economical",
-              "Spendthrift"
+              "Frugal",
+              "Thrifty",
+              "Scrimping"
             ],
-            answer: "Economical",
-            explanation: "Economical means careful and efficient in using money."
+            answer: "Lavish",
+            explanation: "Lavish means spending or giving freely and extravagantly."
           },
           {
             id: "q18",
-            question: "His ______ lifestyle led to financial problems.",
+            question: "Synonym of PRODIGAL is:",
             options: [
-              "frugal",
-              "economical",
-              "extravagant",
-              "thrifty"
+              "Extravagant",
+              "Economical",
+              "Conservative",
+              "Thrifty"
             ],
-            answer: "extravagant",
-            explanation: "Extravagant means spending excessively."
+            answer: "Extravagant",
+            explanation: "Extravagant means spending much more than necessary."
           },
           {
             id: "q19",
-            question: "Choose the synonym of LAVISH.",
+            question: "A person who spends money carelessly is a:",
             options: [
-              "Miserly",
-              "Generous",
-              "Careful",
-              "Limited"
+              "Spendthrift",
+              "Thrifty",
+              "Economist",
+              "Parsimonious"
             ],
-            answer: "Generous",
-            explanation: "Lavish means spending or giving in great amounts."
+            answer: "Spendthrift",
+            explanation: "A spendthrift is a person who spends money freely or wastefully."
           },
           {
             id: "q20",
-            question: "The ______ wedding ceremony cost a fortune.",
+            question: "Synonym of PRODIGAL is:",
             options: [
-              "frugal",
-              "extravagant",
-              "economical",
-              "parsimonious"
+              "Spendthrift",
+              "Economical",
+              "Frugal",
+              "Penurious"
             ],
-            answer: "extravagant",
-            explanation: "Extravagant means excessive or costly."
+            answer: "Spendthrift",
+            explanation: "Spendthrift describes someone who spends money wastefully."
           },
           {
             id: "q21",
-            question: "A person who spends money carelessly is called a ______.",
+            question: "A person who wastes money is called a:",
             options: [
-              "spendthrift",
-              "economist",
-              "miser",
-              "saver"
+              "Squanderer",
+              "Economist",
+              "Thrifty person",
+              "Conservative"
             ],
-            answer: "spendthrift",
-            explanation: "Spendthrift means a person who spends money carelessly or wastefully."
+            answer: "Squanderer",
+            explanation: "A squanderer is a person who wastes money or resources."
           },
           {
             id: "q22",
-            question: "Choose the synonym of SQUANDERER.",
+            question: "Synonym of PRODIGAL is:",
             options: [
-              "Saver",
-              "Wasteful person",
-              "Economist",
-              "Thrifty person"
+              "Unthrifty",
+              "Economical",
+              "Frugal",
+              "Thrifty"
             ],
-            answer: "Wasteful person",
-            explanation: "A squanderer wastes money, time or resources."
+            answer: "Unthrifty",
+            explanation: "Unthrifty means not economical or wasteful."
           },
           {
             id: "q23",
-            question: "His ______ habits caused him financial trouble.",
+            question: "It was _____ of him to spend all his savings.",
             options: [
-              "thrifty",
-              "unthrifty",
-              "economical",
-              "frugal"
+              "Imprudent",
+              "Frugal",
+              "Thrifty",
+              "Economical"
             ],
-            answer: "unthrifty",
-            explanation: "Unthrifty means lacking thrift or careful management of resources."
+            answer: "Imprudent",
+            explanation: "Imprudent means lacking wisdom or careful judgment."
           },
           {
             id: "q24",
-            question: "Choose the antonym of UNTHRIFTY.",
+            question: "Synonym of PROFUSE is:",
             options: [
-              "Wasteful",
-              "Extravagant",
-              "Thrifty",
-              "Profligate"
-            ],
-            answer: "Thrifty",
-            explanation: "Thrifty means careful with money and resources."
-          },
-          {
-            id: "q25",
-            question: "It was ______ of him to spend all his savings on a luxury vacation.",
-            options: [
-              "prudent",
-              "economical",
-              "imprudent",
-              "frugal"
-            ],
-            answer: "imprudent",
-            explanation: "Imprudent means unwise or lacking good judgment."
-          },
-          {
-            id: "q26",
-            question: "Choose the synonym of PROFUSE.",
-            options: [
-              "Scarce",
               "Abundant",
+              "Scarce",
               "Limited",
               "Rare"
             ],
             answer: "Abundant",
-            explanation: "Profuse means abundant or excessive in quantity."
+            explanation: "Profuse means abundant or existing in large quantities."
+          },
+          {
+            id: "q25",
+            question: "He gave _____ apologies for being late.",
+            options: [
+              "Profuse",
+              "Frugal",
+              "Thrifty",
+              "Niggardly"
+            ],
+            answer: "Profuse",
+            explanation: "Profuse means abundant or plentiful."
+          },
+          {
+            id: "q26",
+            question: "Antonym of PRODIGAL is:",
+            options: [
+              "Economical",
+              "Lavish",
+              "Profligate",
+              "Extravagant"
+            ],
+            answer: "Economical",
+            explanation: "Economical means careful about spending money, opposite to prodigal."
           },
           {
             id: "q27",
-            question: "He gave ______ apologies for being late.",
+            question: "Antonym of PRODIGAL is:",
             options: [
-              "profuse",
-              "scarce",
-              "limited",
-              "frugal"
+              "Frugal",
+              "Spendthrift",
+              "Lavish",
+              "Extravagant"
             ],
-            answer: "profuse",
-            explanation: "Profuse means abundant or excessive."
+            answer: "Frugal",
+            explanation: "Frugal means economical and avoiding unnecessary expenditure."
           },
           {
             id: "q28",
-            question: "Choose the antonym of PROFUSE.",
+            question: "Antonym of PRODIGAL is:",
             options: [
-              "Abundant",
-              "Excessive",
-              "Scarce",
-              "Plentiful"
+              "Thrifty",
+              "Profligate",
+              "Squanderer",
+              "Lavish"
             ],
-            answer: "Scarce",
-            explanation: "Scarce means available in insufficient quantity."
+            answer: "Thrifty",
+            explanation: "Thrifty means careful and economical in spending."
           },
           {
             id: "q29",
-            question: "A person who spends money very freely is called ______.",
+            question: "He has a _____ lifestyle and avoids unnecessary spending.",
             options: [
-              "profligate",
-              "thrifty",
-              "parsimonious",
-              "economical"
+              "Frugal",
+              "Prodigal",
+              "Lavish",
+              "Extravagant"
             ],
-            answer: "profligate",
-            explanation: "Profligate means spending money or resources freely and wastefully."
+            answer: "Frugal",
+            explanation: "Frugal means economical and avoiding unnecessary expenditure."
           },
           {
             id: "q30",
-            question: "Choose the synonym of SCRIMPING.",
+            question: "She is very _____ with money.",
             options: [
-              "Spending carelessly",
-              "Saving carefully",
-              "Wasting money",
-              "Giving generously"
+              "Economical",
+              "Profligate",
+              "Extravagant",
+              "Prodigal"
             ],
-            answer: "Saving carefully",
-            explanation: "Scrimping means saving money by being very careful with spending."
+            answer: "Economical",
+            explanation: "Economical means careful in spending and avoiding waste."
           }
         ]
       },
@@ -376,363 +376,363 @@ export const starterSets = [
         questions: [
           {
             id: "q31",
-            question: "We should focus on ______ energy.",
+            question: "Synonym/meaning of SCRIMPING is:",
             options: [
-              "wasting",
-              "conserving",
-              "squandering",
-              "spending"
+              "Saving money by being very careful",
+              "Spending freely",
+              "Wasting money",
+              "Giving generously"
             ],
-            answer: "conserving",
-            explanation: "Conserving means using something carefully to avoid waste."
+            answer: "Saving money by being very careful",
+            explanation: "Scrimping means spending as little money as possible and being very careful with expenses."
           },
           {
             id: "q32",
-            question: "Choose the synonym of NIGGARDLY.",
+            question: "He spent many years _____ to save for retirement.",
             options: [
-              "Generous",
-              "Lavish",
-              "Miserly",
-              "Extravagant"
+              "Scrimping",
+              "Lavishing",
+              "Squandering",
+              "Spending"
             ],
-            answer: "Miserly",
-            explanation: "Niggardly means extremely reluctant to spend money."
+            answer: "Scrimping",
+            explanation: "Scrimping means saving money by avoiding unnecessary spending."
           },
           {
             id: "q33",
-            question: "The ______ old man would not spend even a penny.",
+            question: "Synonym/meaning of CONSERVING is:",
             options: [
-              "lavish",
-              "parsimonious",
-              "extravagant",
-              "prodigal"
+              "Using carefully to avoid waste",
+              "Spending freely",
+              "Wasting",
+              "Squandering"
             ],
-            answer: "parsimonious",
-            explanation: "Parsimonious means unwilling to spend money or use resources."
+            answer: "Using carefully to avoid waste",
+            explanation: "Conserving means using something carefully so that it is not wasted."
           },
           {
             id: "q34",
-            question: "He grew up in ______ conditions and had to be very careful with money.",
+            question: "We should focus on _____ energy.",
             options: [
-              "lavish",
-              "penurious",
-              "extravagant",
-              "affluent"
+              "Conserving",
+              "Squandering",
+              "Wasting",
+              "Lavishing"
             ],
-            answer: "penurious",
-            explanation: "Penurious means extremely poor or unwilling to spend money."
+            answer: "Conserving",
+            explanation: "Conserving energy means using energy carefully and avoiding unnecessary waste."
           },
           {
             id: "q35",
-            question: "Choose the antonym of PARSIMONIOUS.",
+            question: "Antonym of PRODIGAL is:",
             options: [
-              "Miserly",
-              "Thrifty",
+              "Niggardly",
               "Lavish",
-              "Frugal"
-            ],
-            answer: "Lavish",
-            explanation: "Parsimonious means unwilling to spend; lavish means giving or spending freely."
-          },
-          {
-            id: "q36",
-            question: "Choose the synonym of ECONOMICAL.",
-            options: [
-              "Wasteful",
-              "Thrifty",
               "Profligate",
               "Extravagant"
             ],
-            answer: "Thrifty",
-            explanation: "Both economical and thrifty refer to careful use of money or resources."
+            answer: "Niggardly",
+            explanation: "Niggardly means excessively unwilling to spend money."
+          },
+          {
+            id: "q36",
+            question: "Antonym of PRODIGAL is:",
+            options: [
+              "Parsimonious",
+              "Spendthrift",
+              "Lavish",
+              "Profligate"
+            ],
+            answer: "Parsimonious",
+            explanation: "Parsimonious means extremely unwilling to spend money."
           },
           {
             id: "q37",
-            question: "She is very ______ with money and saves for the future.",
+            question: "Antonym of PRODIGAL is:",
             options: [
-              "economical",
-              "prodigal",
-              "extravagant",
-              "profligate"
+              "Penurious",
+              "Extravagant",
+              "Lavish",
+              "Profligate"
             ],
-            answer: "economical",
-            explanation: "Economical means using money efficiently and carefully."
+            answer: "Penurious",
+            explanation: "Penurious means extremely poor or unwilling to spend money."
           },
           {
             id: "q38",
-            question: "Choose the synonym of FRUGAL.",
+            question: "He was known as a _____ old man, unwilling to spend even a penny.",
             options: [
-              "Wasteful",
-              "Thrifty",
+              "Parsimonious",
+              "Prodigal",
               "Lavish",
               "Extravagant"
             ],
-            answer: "Thrifty",
-            explanation: "Frugal means spending money wisely and in a limited way."
+            answer: "Parsimonious",
+            explanation: "Parsimonious means extremely unwilling to spend money."
           },
           {
             id: "q39",
-            question: "He has a ______ lifestyle and avoids unnecessary spending.",
+            question: "She grew up in _____ conditions.",
             options: [
-              "frugal",
-              "prodigal",
-              "lavish",
-              "profligate"
+              "Penurious",
+              "Lavish",
+              "Extravagant",
+              "Profligate"
             ],
-            answer: "frugal",
-            explanation: "Frugal means economical and avoiding unnecessary expenditure."
+            answer: "Penurious",
+            explanation: "Penurious can describe a condition of extreme poverty or scarcity."
           },
           {
             id: "q40",
-            question: "Choose the antonym of THRIFTY.",
+            question: "Choose the antonym of LAVISH.",
             options: [
-              "Economical",
               "Frugal",
-              "Wasteful",
-              "Careful"
+              "Extravagant",
+              "Profligate",
+              "Prodigal"
             ],
-            answer: "Wasteful",
-            explanation: "Thrifty means careful with resources; wasteful is the opposite."
+            answer: "Frugal",
+            explanation: "Frugal means economical and careful with money, opposite to lavish."
           },
           {
             id: "q41",
-            question: "Choose the synonym of REPUDIATE.",
+            question: "Synonym of REPUDIATE is:",
             options: [
+              "Negate",
               "Accept",
-              "Reject",
               "Adopt",
               "Affirm"
             ],
-            answer: "Reject",
-            explanation: "Repudiate means to reject, deny or refuse to acknowledge."
+            answer: "Negate",
+            explanation: "Repudiate means to reject, deny, or refuse to accept something."
           },
           {
             id: "q42",
-            question: "Choose the antonym of REPUDIATE.",
+            question: "His actions _____ the good intentions behind his words.",
             options: [
-              "Negate",
-              "Refute",
-              "Accept",
-              "Disown"
+              "Negated",
+              "Accepted",
+              "Adopted",
+              "Affirmed"
             ],
-            answer: "Accept",
-            explanation: "Accept is opposite to reject or repudiate."
+            answer: "Negated",
+            explanation: "Negated means contradicted or cancelled the effect of something."
           },
           {
             id: "q43",
-            question: "His actions ______ the good intentions behind his words.",
+            question: "Synonym of REPUDIATE is:",
             options: [
-              "affirmed",
-              "negated",
-              "adopted",
-              "accepted"
+              "Deny",
+              "Accept",
+              "Adopt",
+              "Espouse"
             ],
-            answer: "negated",
-            explanation: "Negate means to invalidate or make something ineffective."
+            answer: "Deny",
+            explanation: "Repudiate can mean to deny or reject something."
           },
           {
             id: "q44",
-            question: "She ______ the accusations made against her.",
+            question: "She _____ the accusations made against her.",
             options: [
-              "denied",
-              "adopted",
-              "affirmed",
-              "accepted"
+              "Denied",
+              "Accepted",
+              "Adopted",
+              "Affirmed"
             ],
-            answer: "denied",
-            explanation: "Deny means to declare something untrue or refuse to admit it."
+            answer: "Denied",
+            explanation: "Denied means declared that something was untrue."
           },
           {
             id: "q45",
-            question: "He ______ responsibility for the incident.",
+            question: "Synonym of REPUDIATE is:",
             options: [
-              "accepted",
-              "disowned",
-              "adopted",
-              "affirmed"
-            ],
-            answer: "disowned",
-            explanation: "Disown means to refuse to acknowledge or accept responsibility."
-          },
-          {
-            id: "q46",
-            question: "Choose the synonym of REFUTE.",
-            options: [
-              "Prove wrong",
+              "Disown",
               "Accept",
-              "Adopt",
-              "Support"
-            ],
-            answer: "Prove wrong",
-            explanation: "Refute means to prove something wrong or false."
-          },
-          {
-            id: "q47",
-            question: "The lawyer ______ the allegations with strong evidence.",
-            options: [
-              "refuted",
-              "adopted",
-              "affirmed",
-              "accepted"
-            ],
-            answer: "refuted",
-            explanation: "Refute means to prove an allegation false."
-          },
-          {
-            id: "q48",
-            question: "The company ______ any involvement in the incident.",
-            options: [
-              "disclaimed",
-              "accepted",
-              "adopted",
-              "affirmed"
-            ],
-            answer: "disclaimed",
-            explanation: "Disclaim means to reject or deny something."
-          },
-          {
-            id: "q49",
-            question: "Choose the synonym of DISAVOW.",
-            options: [
-              "Accept",
-              "Deny",
               "Adopt",
               "Affirm"
             ],
-            answer: "Deny",
-            explanation: "Disavow means to reject or deny something."
+            answer: "Disown",
+            explanation: "Disown means to refuse to acknowledge or accept someone or something."
+          },
+          {
+            id: "q46",
+            question: "He _____ his son after he was convicted.",
+            options: [
+              "Disowned",
+              "Accepted",
+              "Adopted",
+              "Affirmed"
+            ],
+            answer: "Disowned",
+            explanation: "Disowned means refused to acknowledge or accept as one's own."
+          },
+          {
+            id: "q47",
+            question: "Synonym of REPUDIATE is:",
+            options: [
+              "Refute",
+              "Accept",
+              "Espouse",
+              "Adopt"
+            ],
+            answer: "Refute",
+            explanation: "Refute means to prove that a statement or claim is wrong."
+          },
+          {
+            id: "q48",
+            question: "She _____ the allegations with evidence.",
+            options: [
+              "Refuted",
+              "Accepted",
+              "Adopted",
+              "Espoused"
+            ],
+            answer: "Refuted",
+            explanation: "Refuted means proved that the allegations were false or incorrect."
+          },
+          {
+            id: "q49",
+            question: "Synonym of REPUDIATE is:",
+            options: [
+              "Disclaim",
+              "Accept",
+              "Adopt",
+              "Corroborate"
+            ],
+            answer: "Disclaim",
+            explanation: "Disclaim means to deny responsibility for or connection with something."
           },
           {
             id: "q50",
-            question: "The king ______ the throne in favour of his son.",
+            question: "The company _____ any involvement in the incident.",
             options: [
-              "adopted",
-              "abdicated",
-              "affirmed",
-              "accepted"
+              "Disclaimed",
+              "Affirmed",
+              "Adopted",
+              "Espoused"
             ],
-            answer: "abdicated",
-            explanation: "Abdicate means to renounce one's throne, office or responsibility."
+            answer: "Disclaimed",
+            explanation: "Disclaimed means denied having responsibility for or involvement in something."
           },
           {
             id: "q51",
-            question: "Choose the synonym of RENOUNCE.",
+            question: "Synonym of REPUDIATE is:",
             options: [
+              "Disavow",
               "Accept",
-              "Give up",
               "Adopt",
-              "Support"
+              "Affirm"
             ],
-            answer: "Give up",
-            explanation: "Renounce means to reject or give up a claim, belief or position."
+            answer: "Disavow",
+            explanation: "Disavow means to deny any responsibility for or connection with something."
           },
           {
             id: "q52",
-            question: "He ______ his earlier statement after the scandal.",
+            question: "He _____ his earlier comments.",
             options: [
-              "recanted",
-              "adopted",
-              "affirmed",
-              "accepted"
+              "Disavowed",
+              "Adopted",
+              "Accepted",
+              "Affirmed"
             ],
-            answer: "recanted",
-            explanation: "Recant means to withdraw or retract a previous statement or belief."
+            answer: "Disavowed",
+            explanation: "Disavowed means denied or rejected a previous statement or position."
           },
           {
             id: "q53",
-            question: "Choose the synonym of NEGATE.",
+            question: "Synonym of REPUDIATE is:",
             options: [
-              "Validate",
-              "Invalidate",
-              "Support",
-              "Confirm"
+              "Abdicate",
+              "Adopt",
+              "Accept",
+              "Affirm"
             ],
-            answer: "Invalidate",
-            explanation: "Negate means to invalidate or make ineffective."
+            answer: "Abdicate",
+            explanation: "In the given source context, abdicate is used as a form of giving up or renouncing something."
           },
           {
             id: "q54",
-            question: "The evidence ______ his innocence.",
+            question: "The king _____ the throne in favour of his son.",
             options: [
-              "denied",
-              "affirmed",
-              "disowned",
-              "repudiated"
+              "Abdicated",
+              "Accepted",
+              "Adopted",
+              "Affirmed"
             ],
-            answer: "affirmed",
-            explanation: "Affirm means to state or show that something is true."
+            answer: "Abdicated",
+            explanation: "Abdicated means formally gave up a position of power, especially a throne."
           },
           {
             id: "q55",
-            question: "Choose the synonym of CORROBORATE.",
+            question: "Synonym of REPUDIATE is:",
             options: [
-              "Contradict",
-              "Support with evidence",
-              "Reject",
-              "Deny"
+              "Renounce",
+              "Accept",
+              "Adopt",
+              "Affirm"
             ],
-            answer: "Support with evidence",
-            explanation: "Corroborate means to provide additional evidence supporting a claim."
+            answer: "Renounce",
+            explanation: "Renounce means formally give up or reject something."
           },
           {
             id: "q56",
-            question: "The witness's testimony ______ the defendant's claim.",
+            question: "He _____ his citizenship.",
             options: [
-              "contradicted",
-              "corroborated",
-              "denied",
-              "repudiated"
+              "Renounced",
+              "Adopted",
+              "Accepted",
+              "Affirmed"
             ],
-            answer: "corroborated",
-            explanation: "Corroborate means to support a claim with additional evidence."
+            answer: "Renounced",
+            explanation: "Renounced means formally gave up his citizenship."
           },
           {
             id: "q57",
-            question: "She ______ her commitment to the cause.",
+            question: "Synonym of REPUDIATE is:",
             options: [
-              "avowed",
-              "denied",
-              "disowned",
-              "repudiated"
+              "Recant",
+              "Accept",
+              "Espouse",
+              "Adopt"
             ],
-            answer: "avowed",
-            explanation: "Avow means to openly acknowledge or declare something."
+            answer: "Recant",
+            explanation: "Recant means to withdraw or take back a previously expressed statement or belief."
           },
           {
             id: "q58",
-            question: "Choose the antonym of DENY.",
+            question: "He was forced to _____ his earlier remarks.",
             options: [
-              "Refute",
-              "Disclaim",
+              "Recant",
               "Affirm",
-              "Disavow"
+              "Adopt",
+              "Espouse"
             ],
-            answer: "Affirm",
-            explanation: "Affirm means to state that something is true; deny means to reject it."
+            answer: "Recant",
+            explanation: "Recant means to withdraw or take back a previous statement."
           },
           {
             id: "q59",
-            question: "The committee ______ a new strategy.",
+            question: "Antonym of REPUDIATE is:",
             options: [
-              "repudiated",
-              "adopted",
-              "denied",
-              "disowned"
+              "Accept",
+              "Deny",
+              "Refute",
+              "Disown"
             ],
-            answer: "adopted",
-            explanation: "Adopt means to take on or accept something."
+            answer: "Accept",
+            explanation: "Accept means to receive or agree to something, opposite to repudiate."
           },
           {
             id: "q60",
-            question: "He ______ the proposal because he considered it unsuitable.",
+            question: "Antonym of REPUDIATE is:",
             options: [
-              "accepted",
-              "adopted",
-              "repudiated",
-              "affirmed"
+              "Espouse",
+              "Disclaim",
+              "Disavow",
+              "Renounce"
             ],
-            answer: "repudiated",
-            explanation: "Repudiate means to reject or refuse to accept."
+            answer: "Espouse",
+            explanation: "Espouse means to adopt or support an idea or cause, opposite to repudiate."
           }
         ]
       },
@@ -743,483 +743,483 @@ export const starterSets = [
         questions: [
           {
             id: "q61",
-            question: "Choose the synonym of DAWDLE.",
+            question: "He _____ the idea of equal rights.",
             options: [
-              "Hurry",
-              "Waste time",
-              "Rush",
-              "Hasten"
+              "Espoused",
+              "Repudiated",
+              "Disclaimed",
+              "Renounced"
             ],
-            answer: "Waste time",
-            explanation: "Dawdle means to waste time or move slowly."
+            answer: "Espoused",
+            explanation: "Espoused means adopted or supported an idea or cause."
           },
           {
             id: "q62",
-            question: "Stop ______ around and get to work!",
+            question: "Antonym of REPUDIATE is:",
             options: [
-              "rushing",
-              "fiddling",
-              "hastening",
-              "exerting"
+              "Adopt",
+              "Deny",
+              "Refute",
+              "Disown"
             ],
-            answer: "fiddling",
-            explanation: "Fiddle around means to waste time or engage in meaningless activities."
+            answer: "Adopt",
+            explanation: "Adopt means to accept or take up an idea or position."
           },
           {
             id: "q63",
-            question: "Choose the synonym of AMBLE.",
+            question: "The committee _____ a new strategy.",
             options: [
-              "Walk slowly",
-              "Run quickly",
-              "Rush",
-              "Hasten"
+              "Adopted",
+              "Repudiated",
+              "Disavowed",
+              "Renounced"
             ],
-            answer: "Walk slowly",
-            explanation: "Amble means to walk slowly without a particular purpose."
+            answer: "Adopted",
+            explanation: "Adopted means accepted or chose a new strategy."
           },
           {
             id: "q64",
-            question: "They ______ down the street.",
+            question: "Antonym of REPUDIATE is:",
             options: [
-              "hastened",
-              "ambled",
-              "rushed",
-              "barreled"
+              "Affirm",
+              "Deny",
+              "Refute",
+              "Disclaim"
             ],
-            answer: "ambled",
-            explanation: "Amble means to walk slowly."
+            answer: "Affirm",
+            explanation: "Affirm means to state or confirm something positively."
           },
           {
             id: "q65",
-            question: "Choose the synonym of TRIFLE.",
+            question: "The evidence _____ his innocence.",
             options: [
-              "Waste time",
-              "Work hard",
-              "Hurry",
-              "Exert"
+              "Affirmed",
+              "Denied",
+              "Refuted",
+              "Disavowed"
             ],
-            answer: "Waste time",
-            explanation: "Trifle means to waste time on insignificant things."
+            answer: "Affirmed",
+            explanation: "Affirmed means confirmed or supported the truth of something."
           },
           {
             id: "q66",
-            question: "Stop ______ with your phone and focus on the task.",
+            question: "Antonym of REPUDIATE is:",
             options: [
-              "trifling",
-              "rushing",
-              "hastening",
-              "exerting"
+              "Corroborate",
+              "Reject",
+              "Deny",
+              "Renounce"
             ],
-            answer: "trifling",
-            explanation: "Trifle means to waste time on insignificant activities."
+            answer: "Corroborate",
+            explanation: "Corroborate means to confirm or support a statement or claim."
           },
           {
             id: "q67",
-            question: "Choose the synonym of STAGGER.",
+            question: "The witness's testimony _____ the defendant's claim.",
             options: [
-              "Walk steadily",
-              "Move unsteadily",
-              "Rush",
-              "Hasten"
+              "Corroborated",
+              "Refuted",
+              "Denied",
+              "Disclaimed"
             ],
-            answer: "Move unsteadily",
-            explanation: "Stagger means to walk or move unsteadily."
+            answer: "Corroborated",
+            explanation: "Corroborated means confirmed or supported the defendant's claim."
           },
           {
             id: "q68",
-            question: "He ______ to the door after a long day at work.",
+            question: "Antonym of REPUDIATE is:",
             options: [
-              "rushed",
-              "staggered",
-              "hastened",
-              "barreled"
+              "Avow",
+              "Disown",
+              "Disavow",
+              "Renounce"
             ],
-            answer: "staggered",
-            explanation: "Stagger means to move unsteadily, often because of exhaustion."
+            answer: "Avow",
+            explanation: "Avow means to openly declare or acknowledge something."
           },
           {
             id: "q69",
-            question: "Choose the synonym of PROCRASTINATE.",
+            question: "She openly _____ her commitment to the cause.",
             options: [
-              "Delay",
-              "Hurry",
-              "Complete",
-              "Accelerate"
+              "Avowed",
+              "Renounced",
+              "Disclaimed",
+              "Recanted"
             ],
-            answer: "Delay",
-            explanation: "Procrastinate means to delay or postpone something."
+            answer: "Avowed",
+            explanation: "Avowed means openly declared or acknowledged."
           },
           {
             id: "q70",
-            question: "He tends to ______ when important deadlines approach.",
+            question: "Choose the antonym of REPUDIATE.",
             options: [
-              "hasten",
-              "procrastinate",
-              "rush",
-              "exert"
+              "Accept",
+              "Negate",
+              "Disown",
+              "Refute"
             ],
-            answer: "procrastinate",
-            explanation: "Procrastinate means to delay doing something."
+            answer: "Accept",
+            explanation: "Accept means to receive or agree to something, opposite to repudiate."
           },
           {
             id: "q71",
-            question: "The employee ______ his feet while completing the report.",
+            question: "Synonym of DAWDLE is:",
             options: [
-              "dragged",
-              "rushed",
-              "hastened",
-              "barreled"
+              "Fiddle around",
+              "Rush",
+              "Hasten",
+              "Barrel"
             ],
-            answer: "dragged",
-            explanation: "Drag one's feet means to deliberately delay or do something slowly."
+            answer: "Fiddle around",
+            explanation: "Fiddle around means to waste time doing unimportant things."
           },
           {
             id: "q72",
-            question: "Choose the synonym of DECELERATE.",
+            question: "Stop _____ around and get to work.",
             options: [
-              "Speed up",
-              "Slow down",
-              "Rush",
-              "Hasten"
+              "Fiddling",
+              "Rushing",
+              "Hastening",
+              "Exerting"
             ],
-            answer: "Slow down",
-            explanation: "Decelerate means to slow down the pace of something."
+            answer: "Fiddling",
+            explanation: "Fiddling around means wasting time or being unnecessarily slow."
           },
           {
             id: "q73",
-            question: "The car began to ______ near the stop sign.",
+            question: "Synonym of DAWDLE is:",
             options: [
-              "accelerate",
-              "decelerate",
-              "rush",
-              "barrel"
+              "Amble",
+              "Rush",
+              "Barrel",
+              "Hasten"
             ],
-            answer: "decelerate",
-            explanation: "Decelerate means to slow down."
+            answer: "Amble",
+            explanation: "Amble means to walk slowly and casually."
           },
           {
             id: "q74",
-            question: "Choose the antonym of DAWDLE.",
+            question: "They _____ down the street without a particular purpose.",
             options: [
-              "Fiddle around",
-              "Amble",
-              "Rush",
-              "Trifle"
+              "Ambled",
+              "Rushed",
+              "Hastened",
+              "Barreled"
             ],
-            answer: "Rush",
-            explanation: "Dawdle means move slowly; rush means move quickly."
+            answer: "Ambled",
+            explanation: "Ambled means walked slowly and casually."
           },
           {
             id: "q75",
-            question: "We need to ______ if we want to catch the train.",
+            question: "Synonym of DAWDLE is:",
             options: [
-              "dawdle",
-              "rush",
-              "trifle",
-              "stagger"
+              "Trifle",
+              "Rush",
+              "Hasten",
+              "Exert"
             ],
-            answer: "rush",
-            explanation: "Rush means to move or act quickly."
+            answer: "Trifle",
+            explanation: "Trifle means to deal with something lightly or spend time on insignificant things."
           },
           {
             id: "q76",
-            question: "He ______ down the hallway to catch the bus.",
+            question: "Stop _____ with insignificant things.",
             options: [
-              "ambled",
-              "barreled",
-              "dawdled",
-              "staggered"
+              "Trifling",
+              "Rushing",
+              "Hastening",
+              "Travailing"
             ],
-            answer: "barreled",
-            explanation: "Barrel means to move or act quickly."
+            answer: "Trifling",
+            explanation: "Trifling means spending time on things of little importance."
           },
           {
             id: "q77",
-            question: "Choose the word opposite in meaning to DAWDLE.",
+            question: "Synonym of DAWDLE is:",
             options: [
-              "Procrastinate",
-              "Fiddle",
+              "Stagger",
+              "Rush",
               "Hasten",
-              "Amble"
+              "Barrel"
             ],
-            answer: "Hasten",
-            explanation: "Hasten means to move or act with speed."
+            answer: "Stagger",
+            explanation: "Stagger means to move unsteadily or slowly, as used in the given source."
           },
           {
             id: "q78",
-            question: "We need to ______ the process to meet the deadline.",
+            question: "He _____ to the door after a long day at work.",
             options: [
-              "hasten",
-              "dawdle",
-              "trifle",
-              "procrastinate"
+              "Staggered",
+              "Rushed",
+              "Hastened",
+              "Barreled"
             ],
-            answer: "hasten",
-            explanation: "Hasten means to make something happen more quickly."
+            answer: "Staggered",
+            explanation: "Staggered means moved unsteadily, often because of tiredness."
           },
           {
             id: "q79",
-            question: "Choose the synonym of EXERT.",
+            question: "Synonym of DAWDLE is:",
             options: [
-              "Avoid effort",
-              "Put in effort",
-              "Delay",
-              "Relax"
+              "Procrastinate",
+              "Hasten",
+              "Rush",
+              "Exert"
             ],
-            answer: "Put in effort",
-            explanation: "Exert means to put effort or energy into something."
+            answer: "Procrastinate",
+            explanation: "Procrastinate means to delay or postpone something unnecessarily."
           },
           {
             id: "q80",
-            question: "You need to ______ more effort to finish the work.",
+            question: "He tends to _____ when it comes to important deadlines.",
             options: [
-              "exert",
-              "dawdle",
-              "trifle",
-              "amble"
+              "Procrastinate",
+              "Hasten",
+              "Rush",
+              "Exert"
             ],
-            answer: "exert",
-            explanation: "Exert means to apply effort or energy."
+            answer: "Procrastinate",
+            explanation: "Procrastinate means to delay doing something, especially unnecessarily."
           },
           {
             id: "q81",
-            question: "Choose the synonym of TRAVAIL.",
+            question: "Synonym of DAWDLE is:",
             options: [
-              "Relaxation",
-              "Hard work",
-              "Leisure",
-              "Rest"
+              "Drag one's feet",
+              "Rush",
+              "Hasten",
+              "Barrel"
             ],
-            answer: "Hard work",
-            explanation: "Travail means hard or laborious work."
+            answer: "Drag one's feet",
+            explanation: "Drag one's feet means to be slow or reluctant to do something."
           },
           {
             id: "q82",
-            question: "She ______ for hours to finish the report.",
+            question: "The employee _____ his feet when completing the report.",
             options: [
-              "travailed",
-              "dawdled",
-              "rested",
-              "relaxed"
+              "Dragged",
+              "Rushed",
+              "Hastened",
+              "Barreled"
             ],
-            answer: "travailed",
-            explanation: "Travail means to work hard, especially in a laborious manner."
+            answer: "Dragged",
+            explanation: "Dragged his feet means delayed or was slow in completing the work."
           },
           {
             id: "q83",
-            question: "Which word means to act quickly?",
+            question: "Synonym of DAWDLE is:",
             options: [
-              "Dawdle",
+              "Decelerate",
+              "Rush",
               "Hasten",
-              "Trifle",
-              "Amble"
+              "Exert"
             ],
-            answer: "Hasten",
-            explanation: "Hasten means to move or act with speed."
+            answer: "Decelerate",
+            explanation: "Decelerate means to slow down."
           },
           {
             id: "q84",
-            question: "Which word means to waste time by engaging in meaningless activities?",
+            question: "The car began to _____ near the stop sign.",
             options: [
-              "Fiddle around",
-              "Exert",
+              "Decelerate",
+              "Rush",
               "Hasten",
-              "Rush"
+              "Barrel"
             ],
-            answer: "Fiddle around",
-            explanation: "Fiddle around means to waste time."
+            answer: "Decelerate",
+            explanation: "Decelerate means to slow down."
           },
           {
             id: "q85",
-            question: "He did not want to ______ the task any longer.",
+            question: "Antonym of DAWDLE is:",
             options: [
-              "delay",
-              "hasten",
-              "complete",
-              "exert"
+              "Rush",
+              "Fiddle around",
+              "Trifle",
+              "Procrastinate"
             ],
-            answer: "delay",
-            explanation: "Delay means to postpone or make something happen later."
+            answer: "Rush",
+            explanation: "Rush means to move or act quickly, opposite to dawdle."
           },
           {
             id: "q86",
-            question: "Choose the synonym of GREGARIOUS.",
+            question: "We need to _____ if we want to catch the train.",
             options: [
-              "Sociable",
+              "Rush",
+              "Dawdle",
+              "Trifle",
+              "Procrastinate"
+            ],
+            answer: "Rush",
+            explanation: "Rush means to move quickly."
+          },
+          {
+            id: "q87",
+            question: "Antonym of DAWDLE is:",
+            options: [
+              "Barrel",
+              "Amble",
+              "Stagger",
+              "Drag one's feet"
+            ],
+            answer: "Barrel",
+            explanation: "Barrel means to move very quickly or forcefully."
+          },
+          {
+            id: "q88",
+            question: "He _____ down the hallway to catch the bus.",
+            options: [
+              "Barreled",
+              "Ambled",
+              "Staggered",
+              "Dawdled"
+            ],
+            answer: "Barreled",
+            explanation: "Barreled means moved very quickly and forcefully."
+          },
+          {
+            id: "q89",
+            question: "Antonym of DAWDLE is:",
+            options: [
+              "Hasten",
+              "Fiddle around",
+              "Trifle",
+              "Procrastinate"
+            ],
+            answer: "Hasten",
+            explanation: "Hasten means to make or become quick, opposite to dawdle."
+          },
+          {
+            id: "q90",
+            question: "We need to _____ the process to meet the deadline.",
+            options: [
+              "Hasten",
+              "Dawdle",
+              "Trifle",
+              "Stagger"
+            ],
+            answer: "Hasten",
+            explanation: "Hasten means to make something happen more quickly."
+          },
+          {
+            id: "q91",
+            question: "Synonym of GREGARIOUS is:",
+            options: [
+              "Clubby",
               "Aloof",
               "Taciturn",
               "Reclusive"
             ],
-            answer: "Sociable",
-            explanation: "Gregarious means sociable and enjoying the company of others."
-          },
-          {
-            id: "q87",
-            question: "Choose the antonym of GREGARIOUS.",
-            options: [
-              "Companionable",
-              "Extroverted",
-              "Antisocial",
-              "Cordial"
-            ],
-            answer: "Antisocial",
-            explanation: "Antisocial means avoiding social interaction."
-          },
-          {
-            id: "q88",
-            question: "He is a popular and ______ man.",
-            options: [
-              "reclusive",
-              "gregarious",
-              "taciturn",
-              "aloof"
-            ],
-            answer: "gregarious",
-            explanation: "Gregarious means sociable and friendly."
-          },
-          {
-            id: "q89",
-            question: "Choose the synonym of CLUBBY.",
-            options: [
-              "Sociable",
-              "Solitary",
-              "Aloof",
-              "Reticent"
-            ],
-            answer: "Sociable",
-            explanation: "Clubby means friendly or sociable, often in a group setting."
-          },
-          {
-            id: "q90",
-            question: "She is an ______ person who easily makes friends.",
-            options: [
-              "introverted",
-              "extroverted",
-              "reclusive",
-              "taciturn"
-            ],
-            answer: "extroverted",
-            explanation: "Extroverted means outgoing and socially confident."
-          },
-          {
-            id: "q91",
-            question: "Choose the synonym of COMPANIONABLE.",
-            options: [
-              "Friendly",
-              "Aloof",
-              "Antisocial",
-              "Reticent"
-            ],
-            answer: "Friendly",
-            explanation: "Companionable means friendly and pleasant to be with."
+            answer: "Clubby",
+            explanation: "Gregarious means fond of company and social interaction; clubby has a similar meaning."
           },
           {
             id: "q92",
-            question: "Choose the synonym of CORDIAL.",
+            question: "Synonym of GREGARIOUS is:",
             options: [
-              "Warm and friendly",
-              "Silent",
-              "Unfriendly",
-              "Solitary"
+              "Extroverted",
+              "Introverted",
+              "Antisocial",
+              "Reticent"
             ],
-            answer: "Warm and friendly",
-            explanation: "Cordial means warm and friendly."
+            answer: "Extroverted",
+            explanation: "Extroverted means outgoing and socially confident."
           },
           {
             id: "q93",
-            question: "His ______ nature made him popular at parties.",
+            question: "Synonym of GREGARIOUS is:",
             options: [
-              "companionable",
-              "reclusive",
-              "aloof",
-              "taciturn"
+              "Companionable",
+              "Reclusive",
+              "Aloof",
+              "Taciturn"
             ],
-            answer: "companionable",
-            explanation: "Companionable means pleasant and friendly to be with."
+            answer: "Companionable",
+            explanation: "Companionable means friendly and pleasant to spend time with."
           },
           {
             id: "q94",
-            question: "Choose the antonym of EXTROVERTED.",
+            question: "His _____ nature made him popular at parties.",
             options: [
-              "Sociable",
-              "Friendly",
-              "Introverted",
-              "Cordial"
+              "Companionable",
+              "Reclusive",
+              "Taciturn",
+              "Reticent"
             ],
-            answer: "Introverted",
-            explanation: "Introverted means preferring time alone or in familiar groups."
+            answer: "Companionable",
+            explanation: "Companionable means friendly and sociable."
           },
           {
             id: "q95",
-            question: "She prefers quiet activities because she is ______.",
+            question: "Synonym of GREGARIOUS is:",
             options: [
-              "extroverted",
-              "introverted",
-              "gregarious",
-              "clubby"
+              "Colonial",
+              "Antisocial",
+              "Aloof",
+              "Introverted"
             ],
-            answer: "introverted",
-            explanation: "Introverted people generally prefer less social stimulation."
+            answer: "Colonial",
+            explanation: "Colonial can describe animals or organisms living together in groups."
           },
           {
             id: "q96",
-            question: "The ______ writer rarely left his house.",
+            question: "The animals are _____ and live together in groups.",
             options: [
-              "gregarious",
-              "reclusive",
-              "extroverted",
-              "cordial"
+              "Colonial",
+              "Reclusive",
+              "Taciturn",
+              "Aloof"
             ],
-            answer: "reclusive",
-            explanation: "Reclusive means avoiding the company of others."
+            answer: "Colonial",
+            explanation: "Colonial means living together in a group or colony."
           },
           {
             id: "q97",
-            question: "Choose the synonym of ALOOF.",
+            question: "Synonym of GREGARIOUS is:",
             options: [
-              "Friendly",
-              "Distant",
               "Cordial",
-              "Companionable"
+              "Antisocial",
+              "Reclusive",
+              "Reticent"
             ],
-            answer: "Distant",
-            explanation: "Aloof means not friendly or not willing to engage with others."
+            answer: "Cordial",
+            explanation: "Cordial means warm, friendly, and sociable."
           },
           {
             id: "q98",
-            question: "He remained ______ at the party and avoided talking to others.",
+            question: "Synonym of GREGARIOUS is:",
             options: [
-              "cordial",
-              "gregarious",
-              "aloof",
-              "extroverted"
+              "Affable",
+              "Aloof",
+              "Taciturn",
+              "Antisocial"
             ],
-            answer: "aloof",
-            explanation: "Aloof means distant or not friendly."
+            answer: "Affable",
+            explanation: "Affable means friendly, pleasant, and easy to talk to."
           },
           {
             id: "q99",
-            question: "Choose the synonym of RETICENT.",
+            question: "Synonym of GREGARIOUS is:",
             options: [
-              "Talkative",
-              "Reserved",
-              "Extroverted",
-              "Gregarious"
+              "Amiable",
+              "Reticent",
+              "Reclusive",
+              "Introverted"
             ],
-            answer: "Reserved",
-            explanation: "Reticent means not revealing one's feelings or thoughts easily."
+            answer: "Amiable",
+            explanation: "Amiable means friendly and pleasant."
           },
           {
             id: "q100",
-            question: "The ______ man rarely spoke, even at social gatherings.",
+            question: "Antonym of GREGARIOUS is:",
             options: [
-              "gregarious",
-              "taciturn",
-              "extroverted",
-              "companionable"
+              "Antisocial",
+              "Cordial",
+              "Amiable",
+              "Companionable"
             ],
-            answer: "taciturn",
-            explanation: "Taciturn means habitually silent or not inclined to talk."
+            answer: "Antisocial",
+            explanation: "Antisocial means avoiding or disliking social interaction, opposite to gregarious."
           }
         ]
       }
